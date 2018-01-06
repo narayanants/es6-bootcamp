@@ -1,0 +1,14 @@
+ES6 vs ECMA2015:
+===============
+
+        * ECMAScript is the standard
+        * Javascript is its implementation
+
+
+        ES6 Code  ===> Babel ===> ES5 (Safe  to run in Browser)
+
+
+
+
+
+
